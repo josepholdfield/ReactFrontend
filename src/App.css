@@ -239,4 +239,10 @@ body {
     width: 92%;
     margin-left: 4px;
   }
+  .boxContainer {
+    min-height: 377px;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 5px;
+  }
 }
